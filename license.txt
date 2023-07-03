@@ -1,11 +1,11 @@
 Model Information:
-* title:	ASTRONUT SUIT
-* source:	https://sketchfab.com/3d-models/astronut-suit-209d0e8d18c54c0d96fd3206c90eee30
-* author:	ᄂΣVIП X GΛMIПG (https://sketchfab.com/levin.gaming)
+* title:	iPhone 14 Pro
+* source:	https://sketchfab.com/3d-models/iphone-14-pro-c14aa19d45674948bda936d9d3de744b
+* author:	iSteven (https://sketchfab.com/OneSteven)
 
 Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "ASTRONUT SUIT" (https://sketchfab.com/3d-models/astronut-suit-209d0e8d18c54c0d96fd3206c90eee30) by ᄂΣVIП X GΛMIПG (https://sketchfab.com/levin.gaming) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "iPhone 14 Pro" (https://sketchfab.com/3d-models/iphone-14-pro-c14aa19d45674948bda936d9d3de744b) by iSteven (https://sketchfab.com/OneSteven) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
